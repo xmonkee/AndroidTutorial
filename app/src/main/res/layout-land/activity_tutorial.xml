@@ -6,6 +6,7 @@
     android:background="#88000000"
     tools:context="teamthree.com.protutorial.TutorialActivity">
     <ImageView
+        android:id="@+id/tut_image"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@drawable/tutbackland"/>
